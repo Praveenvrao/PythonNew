@@ -1,4 +1,4 @@
-
+#program to get random Non duplicate numbers
 
 a = int(input("Choose random number \n"))
 b = int(input("Choose random number \n"))
