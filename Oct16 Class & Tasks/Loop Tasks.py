@@ -15,6 +15,7 @@ elif Score>=0 and Score<=59:
     print('Your grade is F')
 else:
     print('Entered invalid score')
+#-------------------------------------------------------------
 
 #✅ Leap Year Checker:
 #Create a program that determines whether a given year is a leap year.A leap year is divisible by 4, but not by 100 unless it is also divisible by 400.
