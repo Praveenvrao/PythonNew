@@ -24,8 +24,10 @@ class Branch(Student):
         Student.__init__(self,name,rollno,age)
 
 s1 = Student('RAHUL',244,36)
+print(s1.Name)
 #s1._Student__displayprivatedata()
-print(s1._RollNo)
+s1._Rollno = 22222
+print(s1._Rollno)
 s2 = Branch('ROHIT',222,44,'IT')
 print(s2._RollNo)
 s2.display()
